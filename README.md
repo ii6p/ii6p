@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="left">I6P</h1>
 
-<!--
-**ii6p/ii6p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/114349575?v=4"  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ii6p/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ii6p/ii6p/output/snake.svg" alt="Snake animation" />
+
+###
