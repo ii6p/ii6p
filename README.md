@@ -1,5 +1,5 @@
 <h1 align="center">I6P</h1>
-WELCOME
+<h6 align="center">I6P</h6>
 
 ###
 
